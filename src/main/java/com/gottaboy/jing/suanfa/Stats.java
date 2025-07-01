@@ -26,8 +26,8 @@ public class Stats {
     }
 
     public static void jihe() {
+        Queue<Double> queue = new LinkedList<>();
         Iterator<Double> iterator = queue.iterator();
         Collection<Double> collection = new ArrayList<>();
-        Queue<Double> queue = new LinkedList<>();
     }
 }
